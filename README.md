@@ -4,6 +4,6 @@ A simple I2C scanner which automatically discovers all I2C device addresses conn
 
 This project uses PlatformIO as the template.
 
-Please note the platform.ini file as it uses the Arduino libraries for simplicity, specifically Wire.h, which are maintained at [github.com/maxgerhardt/platform-raspberrypi](https://github.com/maxgerhardt/platform-raspberrypi)
+Please note the platform.ini file as it uses the Arduino libraries for simplicity, specifically Wire.h, which are maintained at [github.com/earlephilhower/arduino-pico](https://github.com/earlephilhower/arduino-pico)
 
 Enjoy!
